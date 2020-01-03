@@ -1,0 +1,404 @@
+{
+  "cards": [
+    {
+      "question": "What is React?",
+      "answer": "React is an open-source frontend JavaScript library which is used for building user interfaces especially for single page applications. It is used for handling view layer for web and mobile apps."
+    },
+    {
+      "question": "What are the major features of React?",
+      "answer": "It uses VirtualDOM instead of RealDOM considering that RealDOM manipulations are expensive.Supports server side rendering. Follows unidirectional data flow or data binding.Uses reusable/composable UI components to develop the view."
+    },
+    {
+      "question": "What is JSX?",
+      "answer": "JSX is a XML-like syntax extension to ECMAScript (the acronym stands for JavaScript XML). Basically it just provides syntactic sugar for the React.createElement() function, giving us expressiveness of JavaScript along with HTML like template syntax."
+    },
+    {
+      "question": "What is the difference between Element and Component?",
+      "answer": "An Element is a plain object describing what you want to appear on the screen in terms of the DOM nodes or other components. Elements can contain other Elements in their props. Creating a React element is cheap. Once an element is created, it is never mutated."
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    },
+    {
+      "question": "test",
+      "answer": "test"
+    }
+  ]
+}
